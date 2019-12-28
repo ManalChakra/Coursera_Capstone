@@ -15,3 +15,9 @@ Data
 I will start by finding the neighborhoods of both Etobicoke and Scarborough, then finding the top venues in each, just for an idea of what I am working with. Then I will list venues per neighbourhood in Etobicoke and Scarborough and compare the selected three venues (hotels, coffee shops and drugstores or convenience stores) within the two boroughs (Etobicoke and Scarborough) and in turn compare neighbourhoods within to determine most suitable locations to Jack's criteria. After finding the neighborhoods that match Jack's criteria the most, I will proceed to compare the hours of operation for the coffee shops from Foursquare. Having narrowed down the selection of neighbourhoods I will then research hotel prices (possibly via an external source) to ensure there is a range of prices available in the remaining neighbourhoods. 
 If I run into a situation where it seems these three criteria are not easily met. I will change the order of elimination so that my recommendations vary. So, I may start with the three venues but eliminate by hotel prices before coffee shop operation hours, if I find the need to do so.
 I will present the top three neighbourhoods to Jack and his team with supporting evidence from Foursquare.
+
+
+Methodology
+Results
+Discussion
+Conclusion
