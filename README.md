@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# *Jack's GTA HIKE*
 
 # Introduction/Business Problem
 
