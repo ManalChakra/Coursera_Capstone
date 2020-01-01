@@ -12,19 +12,15 @@ Jack will use the availability of hotels, coffee shops and drugstores near Jack'
 
 # Data
 
-I will start by finding the neighborhoods of both Etobicoke and Scarborough, then finding the top venues in each, just for an idea of what I am working with. After listing the venues per neighbourhood in Etobicoke and Scarborough, then compare the selected three venues (hotels, coffee shops and drugstores or convenience stores) within the two boroughs (Etobicoke and Scarborough) and in turn compare neighbourhoods within to determine most suitable locations to Jack's criteria. After finding the neighborhoods that match Jack's criteria the most, I will proceed to compare the hours of operation for the coffee shops from Foursquare. Having narrowed down the selection of neighbourhoods I will then research hotel prices (possibly via an external source) to ensure there is a range of prices available in the remaining neighbourhoods. 
-If I run into a situation where it seems these three criteria are not easily met. I will change the order of elimination so that my recommendations vary. So, I may start with the three venues but eliminate by hotel prices before coffee shop operation hours, if I find the need to do so.
-I will present the top three neighbourhoods to Jack and his team with supporting evidence from Foursquare.
-
-
-# Understanding the data
-
-Before proceeding to understand the neighbourhoods within Scarborough and Etobicoke in particular, and since they are boroughs of Toronto, it is best to get a clear idea of all the borough of toronto and map out the neighbourhoods by cluster in Etobicoke and in Scarborough. This gives an idea as to why Jack may have even chosen these two in particular.
+I started by using data around Toronto and visualised all the boroughs (I called it, explore, cluster and map!). I then focused my attention onto the neighborhoods of Etobicoke and Scarborough as per Jack's request. I found the top venues in each, using Foursquare. I then compared the selected three venues only (hotels, coffee shops and drugstores or convenience stores) within the two boroughs (Etobicoke and Scarborough) and in turn compared neighbourhoods within to determine most suitable locations to Jack's criteria. 
+After finding a few neighborhoods that matched Jack's criteria, I proceeded to compare the hours of operation for the coffee shops, again from Foursquare. 
+Having narrowed down the selection of neighbourhoods I researched hotel prices (via an external source) and ensured there is a range of prices available in the remaining neighbourhoods. 
 
 ## Data requirements
 
-In each Scarborough and Etobicoke we need to collect:
-- The neighbourhoods
+I started with Toronto at large, mapped it and then narrowed down to the two boroughs.
+In each Scarborough and Etobicoke I needed to collect:
+- The neighbourhood
 - The venues in each neighbourhood
 After glancing over the output
 - Reduce the dataframe to venues that would include coffee shops, stores and hotels
@@ -32,10 +28,9 @@ collect venues in Etobicoke and SCarborough
 
 ## Data Collection
 
-First round: collected the data in the venues for Coffee Shops, Stores and Hotels
-Second round: went back to my data collection and edited it to collect coffee shops, cafes, stores and hotels
-thirs round: went back and realized that stores could be pharmacies or grocery stores
-fourth round: went back and included convenience store and deli to the stores
+First round: I collected the data in the venues for Coffee Shops, Stores and Hotels
+Second round: I then went back to my data collection and edited it to collect coffee shops, cafes, stores and hotels
+third and fourth rounds: I went back again when I realized that stores could be pharmacies or grocery stores or convenience or deli.
 
 ## Data understanding (visualization included)
 
