@@ -28,8 +28,8 @@ collect venues in Etobicoke and SCarborough
 
 ## Data Collection
 
-First round: I collected the data in the venues for Coffee Shops, Stores and Hotels. 
-Second round: I then went back to my data collection and edited it to collect coffee shops, cafes, stores and hotels./n  
+First round: I collected the data in the venues for Coffee Shops, Stores and Hotels. /n
+Second round: I then went back to my data collection and edited it to collect coffee shops, cafes, stores and hotels. /n  
 Third and Fourth rounds: I went back again when I realized that stores could be pharmacies or grocery stores or convenience or deli.
 
 ## Data understanding (visualization included)
