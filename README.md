@@ -44,7 +44,7 @@ Only Clarks' in Scarborough has more than two hotels. We need to check the coffe
 
 Kingsview, Northwest and Westmount are the most viable neighbourhoods in Etobicoke as per the bar graph. The remaining three neighbourhoods do not have the same number of options. In the case that the coffee shop hours or the hotel price range do not meet Jack's criteria, we have an option to consider Albion Gardens.
 
-The bargraphs are visible in the code or on the blog.
+The bargraphs are visible in the code (https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/b8ce6509-68f5-4ba3-8ba2-b3bfe8bc142f/view?access_token=d559e99b4fd6a3800e1361c2f1b4acf1c1c09084fd79579b3d6bad2f1dddb7f5) or on the blog Jack's GTA Hike.
 
 
 ## Data preparation
